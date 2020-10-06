@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/security_storage_v1.iml" filepath="$PROJECT_DIR$/security_storage_v1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/security_storage_v1_android.iml" filepath="$PROJECT_DIR$/android/security_storage_v1_android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/example/android/security_storage_v1_example_android.iml" filepath="$PROJECT_DIR$/example/android/security_storage_v1_example_android.iml" />
+    </modules>
+  </component>
+</project>

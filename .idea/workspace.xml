@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de6a9ae7-860e-4a86-bf20-4f6eda0d619b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1i9jUOV4SJCcneKtScWBuHRCxo0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/android/src/main/kotlin/com/pacificoseguros/security_storage_v1" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/android/src/main/kotlin/com/pacificoseguros/security_storage_v1" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de6a9ae7-860e-4a86-bf20-4f6eda0d619b" name="Default Changelist" comment="" />
+      <created>1601326716415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601326716415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1384" y="552" key="com.intellij.ide.util.TipDialog" timestamp="1602011277882">
+      <screen x="0" y="23" width="3440" height="1337" />
+    </state>
+    <state x="1384" y="552" key="com.intellij.ide.util.TipDialog/0.23.3440.1337/-1792.23.1792.1097@0.23.3440.1337" timestamp="1602011277882" />
+  </component>
+</project>
